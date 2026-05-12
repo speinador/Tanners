@@ -1,5 +1,5 @@
 # ⬡ TANNERS
-### Security Reconnaissance & Vulnerability Assessment Tool · v2.1
+### Security Reconnaissance & Vulnerability Assessment Tool
 
 ```
   ████████╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗ ███████╗
