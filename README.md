@@ -252,12 +252,16 @@ Pull requests bienvenidos. Algunas ideas para mejorar:
 
 ---
 
-## Licencia
-
-MIT License. Libre para usar, modificar y distribuir con atribución.
-
----
-
 ## Disclaimer
 
 Esta herramienta fue desarrollada con fines educativos y de auditoría legítima. El uso en sistemas sin autorización explícita del propietario puede ser ilegal bajo las leyes de tu país. El autor no se hace responsable del uso indebido.
+
+---
+
+## Autor
+
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+
+---
+
+## 📄 Licencia
